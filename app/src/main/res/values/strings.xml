@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notification Scheduler</string>
+    <string name="None">None</string>
+    <string name="Any">Any</string>
+    <string name="wifiNetwork">wifiNetwork</string>
+    <string name="Schedule_Job">Schedule Job</string>
+    <string name="Cancel_Jobs">Cancel Jobs</string>
+    <string name="Device_Idle">Device Idle</string>
+    <string name="Device_Charging">Device Charging</string>
+</resources>
